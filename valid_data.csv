@@ -1,0 +1,1673 @@
+,a,b,label,logit_diff
+0,ladle,shop,False,-1.046875
+1,shop,ladle,True,3.171875
+2,meadow,paper towel holder,True,3.046875
+3,paper towel holder,meadow,False,-2.375
+4,mosquito,desert,False,-3.46875
+5,desert,mosquito,True,4.109375
+6,iceberg,outbuilding,True,1.859375
+7,outbuilding,iceberg,False,-2.515625
+8,hot air balloon,thimble,True,3.78125
+9,thimble,hot air balloon,False,-2.546875
+10,poppy seed,bread slice,False,-2.03125
+11,bread slice,poppy seed,True,3.640625
+12,basilica,mosquito,True,1.875
+13,mosquito,basilica,False,-2.453125
+14,durian,hut,True,4.3984375
+15,hut,durian,False,-1.25
+16,orangutan,hamster,True,5.203125
+17,hamster,orangutan,False,-3.546875
+18,turtle,road,False,-0.671875
+19,road,turtle,True,4.09375
+20,apartment,cruise ship,False,-2.609375
+21,cruise ship,apartment,True,2.125
+22,paper towel holder,reef,False,-2.3125
+23,reef,paper towel holder,True,4.21875
+24,rat,reef,False,-0.78125
+25,reef,rat,True,4.09375
+26,cracker crumb,cactus,False,-0.734375
+27,cactus,cracker crumb,True,2.921875
+28,desert,cabin cruiser,True,2.484375
+29,cabin cruiser,desert,False,-3.015625
+30,oyster,airport,False,-2.6875
+31,airport,oyster,True,2.15625
+32,turtle,desktop,False,-1.1875
+33,desktop,turtle,True,2.578125
+34,mountain,cottage,True,5.7890625
+35,cottage,mountain,False,-3.015625
+36,hot air balloon,dining table,True,3.40625
+37,dining table,hot air balloon,False,-0.9375
+38,police car,thimble,True,2.75
+39,thimble,police car,False,-2.015625
+40,horse,rat,True,6.3984375
+41,rat,horse,False,-3.859375
+42,hut,city,False,-3.78125
+43,city,hut,True,6.203125
+44,mosquito,ice sheet,False,-4.390625
+45,ice sheet,mosquito,True,3.96875
+46,pretzel,orangutan,False,-1.140625
+47,orangutan,pretzel,True,3.65625
+48,cruise ship,paper towel holder,True,3.765625
+49,paper towel holder,cruise ship,False,-3.34375
+50,airport,clownfish,True,0.328125
+51,clownfish,airport,False,-4.078125
+52,pebble,mountain,False,-3.515625
+53,mountain,pebble,True,6.5078125
+54,power cord,mountain,False,-3.453125
+55,mountain,power cord,True,1.921875
+56,ice sheet,dining table,True,4.359375
+57,dining table,ice sheet,False,-0.859375
+58,telescope,paper towel holder,True,3.8125
+59,paper towel holder,telescope,False,-1.28125
+60,can opener,desktop,False,-1.5
+61,desktop,can opener,True,3.1875
+62,hut,raspberry,False,-2.671875
+63,raspberry,hut,True,1.265625
+64,cracker crumb,horse,False,-1.421875
+65,horse,cracker crumb,True,3.375
+66,rat,orangutan,False,-2.96875
+67,orangutan,rat,True,5.765625
+68,glue stick,ice sheet,False,0.0
+69,ice sheet,glue stick,True,4.7421875
+70,cabin cruiser,city,False,-0.71875
+71,city,cabin cruiser,True,3.0625
+72,mountain,cactus,True,5.1953125
+73,cactus,mountain,False,-3.53125
+74,horse,pearl barley,True,2.03125
+75,pearl barley,horse,False,-1.609375
+76,mosquito,timer,False,-1.578125
+77,timer,mosquito,True,4.0390625
+78,meadow,ladle,True,2.21875
+79,ladle,meadow,False,-2.59375
+80,horse,cottage,True,4.015625
+81,cottage,horse,False,-0.890625
+82,dining table,city,False,-1.734375
+83,city,dining table,True,3.8828125
+84,yurt,ice sheet,False,-1.390625
+85,ice sheet,yurt,True,2.265625
+86,iceberg,skyscraper,True,3.921875
+87,skyscraper,iceberg,False,-0.015625
+88,arena,tape,True,1.90625
+89,tape,arena,False,-1.859375
+90,mountain,pearl barley,True,1.734375
+91,pearl barley,mountain,False,-3.21875
+92,thimble,grape,False,-1.28125
+93,grape,thimble,True,4.625
+94,nebula,village,True,3.9375
+95,village,nebula,False,-1.875
+96,bread slice,durian,False,-0.640625
+97,durian,bread slice,True,4.4453125
+98,mosquito,pretzel,False,-1.0625
+99,pretzel,mosquito,True,4.8046875
+100,atom,airport,False,-3.390625
+101,airport,atom,True,0.40625
+102,poppy seed,cookie crumb,False,-0.59375
+103,cookie crumb,poppy seed,True,3.75
+104,hut,traffic light,False,-0.03125
+105,traffic light,hut,True,4.1875
+106,desert,cactus,True,2.25
+107,cactus,desert,False,-2.25
+108,cactus,arena,False,-1.4375
+109,arena,cactus,True,3.6875
+110,compost bin,iceberg,False,-1.671875
+111,iceberg,compost bin,True,3.734375
+112,swamp,thimble,True,4.1875
+113,thimble,swamp,False,-1.328125
+114,city,rat,True,3.390625
+115,rat,city,False,-2.75
+116,trail,cracker crumb,True,3.6953125
+117,cracker crumb,trail,False,-0.078125
+118,faucet,reef,False,-2.1875
+119,reef,faucet,True,3.96875
+120,police station,nebula,False,-2.171875
+121,nebula,police station,True,3.59375
+122,iceberg,cookie crumb,True,3.84375
+123,cookie crumb,iceberg,False,-1.71875
+124,mosquito,turtle,False,-3.578125
+125,turtle,mosquito,True,4.890625
+126,grape,pebble,True,6.3046875
+127,pebble,grape,False,-0.40625
+128,paper towel holder,durian,False,-1.390625
+129,durian,paper towel holder,True,3.5859375
+130,basilica,police station,True,3.140625
+131,police station,basilica,False,-0.65625
+132,nebula,faucet,True,3.4375
+133,faucet,nebula,False,-2.28125
+134,fish egg,mountain,False,-2.828125
+135,mountain,fish egg,True,2.921875
+136,thimble,skyscraper,False,-2.578125
+137,skyscraper,thimble,True,4.28125
+138,airport,can opener,True,4.8828125
+139,can opener,airport,False,-2.984375
+140,corral,desert,False,-1.96875
+141,desert,corral,True,2.453125
+142,mountain,donut,True,4.8359375
+143,donut,mountain,False,-2.640625
+144,orangutan,oyster,True,4.46875
+145,oyster,orangutan,False,-2.03125
+146,ferry,city,False,-1.90625
+147,city,ferry,True,2.28125
+148,ferry,thimble,True,5.2890625
+149,thimble,ferry,False,-0.75
+150,paper towel holder,mosque,False,-1.859375
+151,mosque,paper towel holder,True,2.859375
+152,shop,hamster,True,1.71875
+153,hamster,shop,False,-2.625
+154,thimble,cactus,False,-1.578125
+155,cactus,thimble,True,4.03125
+156,raspberry,ladle,True,2.5
+157,ladle,raspberry,False,-1.984375
+158,countertop,mosquito,True,1.671875
+159,mosquito,countertop,False,-3.65625
+160,cactus,shop,False,-0.8125
+161,shop,cactus,True,3.671875
+162,police car,paper towel holder,True,4.234375
+163,paper towel holder,police car,False,-2.0625
+164,cabin cruiser,ice sheet,False,-1.546875
+165,ice sheet,cabin cruiser,True,2.5625
+166,skyscraper,village,True,2.53125
+167,village,skyscraper,False,-1.75
+168,hot air balloon,pebble,True,3.625
+169,pebble,hot air balloon,False,-2.375
+170,field,can opener,True,3.421875
+171,can opener,field,False,-2.140625
+172,ice sheet,police station,True,4.6484375
+173,police station,ice sheet,False,-1.765625
+174,sink,hospital,False,-2.34375
+175,hospital,sink,True,2.890625
+176,desert,clownfish,True,0.875
+177,clownfish,desert,False,-3.484375
+178,durian,glue stick,True,5.1796875
+179,glue stick,durian,False,-0.859375
+180,pot holder,apartment,False,-2.203125
+181,apartment,pot holder,True,1.84375
+182,cottage,nebula,False,-1.828125
+183,nebula,cottage,True,4.6640625
+184,scalpel,swamp,False,-2.296875
+185,swamp,scalpel,True,1.59375
+186,iceberg,hot air balloon,True,4.203125
+187,hot air balloon,iceberg,False,-0.78125
+188,can opener,mussel,False,-0.96875
+189,mussel,can opener,True,3.34375
+190,orangutan,slice of cheese,True,2.71875
+191,slice of cheese,orangutan,False,-1.125
+192,cottage,mosquito,True,0.6875
+193,mosquito,cottage,False,-3.640625
+194,nebula,baseball,True,4.4140625
+195,baseball,nebula,False,-0.015625
+196,mosque,glue stick,True,2.734375
+197,glue stick,mosque,False,-0.953125
+198,atom,ferry,False,-2.84375
+199,ferry,atom,True,1.546875
+200,baseball,hamster,True,2.21875
+201,hamster,baseball,False,-1.71875
+202,road,compost bin,True,2.734375
+203,compost bin,road,False,-1.375
+204,pot holder,horse,False,-1.34375
+205,horse,pot holder,True,3.6640625
+206,oyster,raspberry,False,-0.140625
+207,raspberry,oyster,True,3.5625
+208,orchid,can opener,True,1.953125
+209,can opener,orchid,False,-1.953125
+210,village,iceberg,False,-2.6875
+211,iceberg,village,True,4.28125
+212,scalpel,ferry,False,-2.15625
+213,ferry,scalpel,True,1.796875
+214,oyster,can opener,True,3.203125
+215,can opener,oyster,False,-0.984375
+216,mussel,tuna,False,-2.3125
+217,tuna,mussel,True,4.09375
+218,pebble,cactus,False,-2.15625
+219,cactus,pebble,True,5.6171875
+220,police car,sugar glider,True,1.078125
+221,sugar glider,police car,False,-3.765625
+222,ferry,desert,False,-1.671875
+223,desert,ferry,True,1.953125
+224,field,thimble,True,4.796875
+225,thimble,field,False,-1.546875
+226,driveway,mountain,False,-3.453125
+227,mountain,driveway,True,2.453125
+228,mountain,faucet,True,4.953125
+229,faucet,mountain,False,-3.78125
+230,glue stick,airport,False,-3.09375
+231,airport,glue stick,True,4.15625
+232,hotel,cottage,True,5.0546875
+233,cottage,hotel,False,-1.5
+234,clownfish,traffic light,False,-2.234375
+235,traffic light,clownfish,True,1.953125
+236,faucet,skyscraper,False,-3.15625
+237,skyscraper,faucet,True,3.703125
+238,desert,road,True,3.65625
+239,road,desert,False,-0.15625
+240,rat,hospital,False,-2.78125
+241,hospital,rat,True,3.546875
+242,ladle,reef,False,-1.03125
+243,reef,ladle,True,3.59375
+244,hut,donut,False,-0.71875
+245,donut,hut,True,4.5625
+246,hospital,outbuilding,True,3.5
+247,outbuilding,hospital,False,-3.40625
+248,pebble,tape,False,-0.328125
+249,tape,pebble,True,5.390625
+250,apartment,arena,False,-0.578125
+251,arena,apartment,True,3.90625
+252,thimble,orangutan,False,-2.578125
+253,orangutan,thimble,True,3.4375
+254,mountain,slice of cheese,True,2.75
+255,slice of cheese,mountain,False,-1.984375
+256,can opener,swamp,False,-1.765625
+257,swamp,can opener,True,3.203125
+258,raspberry,glue stick,True,3.328125
+259,glue stick,raspberry,False,-1.109375
+260,airport,compost bin,True,4.328125
+261,compost bin,airport,False,-3.5
+262,meadow,mountain,False,-1.53125
+263,mountain,meadow,True,4.4453125
+264,faucet,desert,False,-3.3125
+265,desert,faucet,True,3.0625
+266,cruise ship,cottage,True,4.171875
+267,cottage,cruise ship,False,-2.515625
+268,glue stick,driveway,False,-2.40625
+269,driveway,glue stick,True,3.140625
+270,donut,meadow,False,-1.59375
+271,meadow,donut,True,2.875
+272,reef,police station,True,2.21875
+273,police station,reef,False,-1.984375
+274,orangutan,turtle,True,5.125
+275,turtle,orangutan,False,-0.796875
+276,ladle,ice sheet,False,-1.359375
+277,ice sheet,ladle,True,4.1484375
+278,basilica,thimble,True,4.1328125
+279,thimble,basilica,False,-1.59375
+280,desktop,glue stick,True,2.90625
+281,glue stick,desktop,False,-0.953125
+282,skyscraper,ladle,True,1.1875
+283,ladle,skyscraper,False,-2.53125
+284,snub-nosed monkey,nebula,False,-2.5
+285,nebula,snub-nosed monkey,True,1.125
+286,mosque,airport,False,-2.421875
+287,airport,mosque,True,2.484375
+288,pizza peel,mountain,False,-3.5625
+289,mountain,pizza peel,True,3.421875
+290,yurt,cottage,True,3.765625
+291,cottage,yurt,False,-0.140625
+292,grape,mosquito,True,5.140625
+293,mosquito,grape,False,-3.3125
+294,swamp,compost bin,True,3.21875
+295,compost bin,swamp,False,-0.53125
+296,paper towel holder,baseball,False,-0.84375
+297,baseball,paper towel holder,True,3.90625
+298,mosquito,slice of cheese,False,-1.703125
+299,slice of cheese,mosquito,True,4.484375
+300,cottage,reef,False,-1.96875
+301,reef,cottage,True,4.7109375
+302,cabin cruiser,hospital,False,-1.890625
+303,hospital,cabin cruiser,True,3.40625
+304,mountain,grape,True,1.734375
+305,grape,mountain,False,-2.90625
+306,durian,oyster,True,5.09375
+307,oyster,durian,False,-1.625
+308,baseball,mountain,False,-1.90625
+309,mountain,baseball,True,3.71875
+310,road,glue stick,True,4.25
+311,glue stick,road,False,-1.6875
+312,skyscraper,paper towel holder,True,4.90625
+313,paper towel holder,skyscraper,False,-3.203125
+314,horse,kitchen towel,True,1.875
+315,kitchen towel,horse,False,-1.96875
+316,glue stick,mosquito,True,3.609375
+317,mosquito,glue stick,False,-1.34375
+318,apartment,city,False,-2.5
+319,city,apartment,True,3.8203125
+320,fish egg,iceberg,False,-1.65625
+321,iceberg,fish egg,True,2.734375
+322,nebula,pebble,True,5.0859375
+323,pebble,nebula,False,-2.21875
+324,cottage,baseball,False,-1.890625
+325,baseball,cottage,True,2.65625
+326,dining table,orangutan,False,-1.3125
+327,orangutan,dining table,True,2.578125
+328,faucet,durian,False,-1.515625
+329,durian,faucet,True,2.421875
+330,cottage,traffic light,False,-0.09375
+331,traffic light,cottage,True,3.671875
+332,field,mosquito,True,3.4375
+333,mosquito,field,False,-2.515625
+334,police station,meadow,False,-0.6875
+335,meadow,police station,True,3.578125
+336,basilica,hut,True,5.6328125
+337,hut,basilica,False,-2.09375
+338,rat,octopus,False,-0.984375
+339,octopus,rat,True,3.828125
+340,tuna,hamster,True,2.828125
+341,hamster,tuna,False,-1.921875
+342,ferry,faucet,True,4.8359375
+343,faucet,ferry,False,-0.609375
+344,iceberg,kitchen towel,True,2.265625
+345,kitchen towel,iceberg,False,-2.375
+346,nebula,ice sheet,True,2.953125
+347,ice sheet,nebula,False,-0.671875
+348,arena,turtle,True,3.109375
+349,turtle,arena,False,-1.96875
+350,poppy seed,horse,False,-5.109375
+351,horse,poppy seed,True,1.921875
+352,clownfish,iceberg,False,-3.609375
+353,iceberg,clownfish,True,2.859375
+354,road,mosquito,True,4.4375
+355,mosquito,road,False,-3.109375
+356,rat,ferry,False,-1.890625
+357,ferry,rat,True,4.46875
+358,outbuilding,arena,False,-2.484375
+359,arena,outbuilding,True,3.15625
+360,poppy seed,tuna,False,-3.265625
+361,tuna,poppy seed,True,2.171875
+362,ice skates,mountain,False,-3.515625
+363,mountain,ice skates,True,0.546875
+364,cookie crumb,Tasmanian devil,False,-1.21875
+365,Tasmanian devil,cookie crumb,True,2.578125
+366,iceberg,cabin cruiser,True,4.6015625
+367,cabin cruiser,iceberg,False,-2.34375
+368,paper towel holder,police station,False,-1.984375
+369,police station,paper towel holder,True,3.90625
+370,horse,faucet,True,4.7421875
+371,faucet,horse,False,-1.984375
+372,apartment,skyscraper,False,-3.09375
+373,skyscraper,apartment,True,3.03125
+374,can opener,corral,False,-1.46875
+375,corral,can opener,True,2.25
+376,mosquito,atom,False,-3.875
+377,atom,mosquito,True,0.203125
+378,glue stick,field,False,-1.3125
+379,field,glue stick,True,3.640625
+380,tuna,glue stick,True,4.53125
+381,glue stick,tuna,False,-1.203125
+382,clownfish,turtle,False,-2.671875
+383,turtle,clownfish,True,1.0
+384,hotel,rat,True,3.7734375
+385,rat,hotel,False,-2.203125
+386,police car,iceberg,False,-2.796875
+387,iceberg,police car,True,4.234375
+388,octopus,hamster,True,2.375
+389,hamster,octopus,False,-1.578125
+390,bread slice,thimble,True,4.3359375
+391,thimble,bread slice,False,-0.359375
+392,traffic light,city,False,-1.9375
+393,city,traffic light,True,2.140625
+394,shop,can opener,True,4.03125
+395,can opener,shop,False,-1.484375
+396,donut,airport,False,-2.46875
+397,airport,donut,True,4.09375
+398,faucet,meadow,False,-2.734375
+399,meadow,faucet,True,1.703125
+400,iceberg,thimble,True,5.2890625
+401,thimble,iceberg,False,-2.0
+402,cottage,police car,False,-1.375
+403,police car,cottage,True,3.28125
+404,raspberry,mosquito,True,4.4609375
+405,mosquito,raspberry,False,-3.0
+406,rat,traffic light,False,-0.265625
+407,traffic light,rat,True,4.140625
+408,skyscraper,clownfish,True,0.28125
+409,clownfish,skyscraper,False,-4.015625
+410,horse,bread slice,True,2.28125
+411,bread slice,horse,False,-1.5625
+412,countertop,airport,False,-3.28125
+413,airport,countertop,True,2.703125
+414,baseball,poppy seed,True,2.328125
+415,poppy seed,baseball,False,-3.25
+416,mosquito,ferry,False,-3.5
+417,ferry,mosquito,True,5.203125
+418,reef,cookie crumb,True,2.828125
+419,cookie crumb,reef,False,-1.9375
+420,cruise ship,iceberg,False,-0.890625
+421,iceberg,cruise ship,True,4.546875
+422,desert,hut,True,4.875
+423,hut,desert,False,-2.4375
+424,ladle,nebula,False,-1.046875
+425,nebula,ladle,True,3.71875
+426,tuna,faucet,True,2.953125
+427,faucet,tuna,False,-2.15625
+428,road,cottage,True,4.09375
+429,cottage,road,False,-1.234375
+430,shop,cottage,True,4.765625
+431,cottage,shop,False,-0.640625
+432,iceberg,turtle,True,4.3125
+433,turtle,iceberg,False,-1.09375
+434,tuna,can opener,True,5.171875
+435,can opener,tuna,False,-0.734375
+436,compost bin,nebula,False,-1.609375
+437,nebula,compost bin,True,2.53125
+438,skunk,city,False,-2.734375
+439,city,skunk,True,1.15625
+440,thimble,airport,False,-3.015625
+441,airport,thimble,True,4.5078125
+442,ladle,arena,False,-2.125
+443,arena,ladle,True,3.328125
+444,cottage,durian,False,-1.578125
+445,durian,cottage,True,2.890625
+446,fish egg,road,False,-1.6875
+447,road,fish egg,True,1.9375
+448,rat,shop,False,-1.84375
+449,shop,rat,True,3.765625
+450,reef,slice of cheese,True,3.109375
+451,slice of cheese,reef,False,-0.5
+452,glue stick,ferry,False,-1.0625
+453,ferry,glue stick,True,4.34375
+454,nebula,horse,True,3.921875
+455,horse,nebula,False,-0.859375
+456,arena,cottage,True,5.0625
+457,cottage,arena,False,-2.484375
+458,thimble,tuna,False,-1.875
+459,tuna,thimble,True,4.6640625
+460,orangutan,nebula,False,-1.640625
+461,nebula,orangutan,True,1.96875
+462,hut,police car,False,-1.140625
+463,police car,hut,True,2.65625
+464,can opener,hot air balloon,False,-1.890625
+465,hot air balloon,can opener,True,3.59375
+466,village,hut,True,2.859375
+467,hut,village,False,-1.59375
+468,nebula,dining table,True,4.140625
+469,dining table,nebula,False,-1.21875
+470,grape,poppy seed,True,5.03125
+471,poppy seed,grape,False,-1.515625
+472,field,scalpel,True,1.78125
+473,scalpel,field,False,-1.953125
+474,telescope,can opener,True,4.53125
+475,can opener,telescope,False,-0.734375
+476,cottage,ferry,False,-0.734375
+477,ferry,cottage,True,4.0
+478,yurt,road,False,-1.109375
+479,road,yurt,True,2.875
+480,turtle,pebble,True,5.8515625
+481,pebble,turtle,False,-0.859375
+482,traffic light,desert,False,-2.40625
+483,desert,traffic light,True,2.734375
+484,durian,ladle,True,4.203125
+485,ladle,durian,False,-1.171875
+486,dining table,mountain,False,-2.984375
+487,mountain,dining table,True,4.859375
+488,desert,yurt,True,2.671875
+489,yurt,desert,False,-1.796875
+490,skyscraper,police station,True,4.09375
+491,police station,skyscraper,False,-2.90625
+492,pot holder,hot air balloon,False,-2.203125
+493,hot air balloon,pot holder,True,2.640625
+494,kitchen towel,city,False,-2.640625
+495,city,kitchen towel,True,1.0625
+496,iceberg,pot holder,True,2.8125
+497,pot holder,iceberg,False,-2.28125
+498,thimble,shop,False,-1.125
+499,shop,thimble,True,4.1875
+500,mussel,poppy seed,True,2.21875
+501,poppy seed,mussel,False,-1.765625
+502,cactus,horse,False,-0.359375
+503,horse,cactus,True,5.03125
+504,airport,slice of cheese,True,2.015625
+505,slice of cheese,airport,False,-1.875
+506,horse,ladle,True,3.4375
+507,ladle,horse,False,-3.0
+508,skunk,airport,False,-2.59375
+509,airport,skunk,True,1.390625
+510,tuna,rat,True,4.3359375
+511,rat,tuna,False,-1.859375
+512,police station,arena,False,-1.046875
+513,arena,police station,True,3.625
+514,ice sheet,outbuilding,True,2.109375
+515,outbuilding,ice sheet,False,-1.875
+516,basilica,dining table,True,3.1875
+517,dining table,basilica,False,-1.84375
+518,yurt,swamp,False,-0.984375
+519,swamp,yurt,True,3.046875
+520,fish egg,orangutan,False,-2.625
+521,orangutan,fish egg,True,2.59375
+522,baseball,can opener,True,4.8203125
+523,can opener,baseball,False,-0.03125
+524,sink,glue stick,True,3.203125
+525,glue stick,sink,False,-1.140625
+526,hot air balloon,hut,True,4.09375
+527,hut,hot air balloon,False,-1.421875
+528,mosque,mountain,False,-2.890625
+529,mountain,mosque,True,1.671875
+530,airport,village,True,3.109375
+531,village,airport,False,-2.046875
+532,turtle,thimble,True,4.2421875
+533,thimble,turtle,False,-0.109375
+534,airport,pizza peel,True,2.46875
+535,pizza peel,airport,False,-2.609375
+536,ferry,fish egg,True,3.453125
+537,fish egg,ferry,False,-1.0625
+538,orangutan,sugar glider,True,3.328125
+539,sugar glider,orangutan,False,-4.765625
+540,pretzel,reef,False,-0.359375
+541,reef,pretzel,True,3.6015625
+542,mountain,compost bin,True,3.8125
+543,compost bin,mountain,False,-4.109375
+544,dining table,thimble,True,3.96875
+545,thimble,dining table,False,-3.359375
+546,glue stick,horse,False,-1.234375
+547,horse,glue stick,True,5.53125
+548,apartment,mountain,False,-4.046875
+549,mountain,apartment,True,5.125
+550,pebble,airport,False,-3.25
+551,airport,pebble,True,2.453125
+552,road,dining table,True,3.6875
+553,dining table,road,False,-0.375
+554,cracker crumb,Tasmanian devil,False,-0.53125
+555,Tasmanian devil,cracker crumb,True,3.125
+556,cottage,skyscraper,False,-2.671875
+557,skyscraper,cottage,True,5.2265625
+558,compost bin,desert,False,-2.796875
+559,desert,compost bin,True,3.0
+560,skunk,hamster,True,2.9375
+561,hamster,skunk,False,-0.90625
+562,sink,ladle,True,3.875
+563,ladle,sink,False,-0.046875
+564,nebula,mosquito,True,5.3515625
+565,mosquito,nebula,False,-3.546875
+566,faucet,city,False,-3.5
+567,city,faucet,True,3.203125
+568,countertop,desert,False,-1.734375
+569,desert,countertop,True,2.71875
+570,ice sheet,donut,True,3.8515625
+571,donut,ice sheet,False,-0.546875
+572,arena,mountain,False,-0.09375
+573,mountain,arena,True,3.828125
+574,field,cottage,True,3.125
+575,cottage,field,False,-1.421875
+576,compost bin,city,False,-2.640625
+577,city,compost bin,True,3.296875
+578,hut,baseball,False,-1.328125
+579,baseball,hut,True,3.953125
+580,hospital,scalpel,True,2.375
+581,scalpel,hospital,False,-2.734375
+582,dining table,paper towel holder,True,4.703125
+583,paper towel holder,dining table,False,-1.078125
+584,airport,shop,True,5.0234375
+585,shop,airport,False,-0.15625
+586,driveway,pot holder,True,1.734375
+587,pot holder,driveway,False,-2.28125
+588,mountain,horse,True,5.6640625
+589,horse,mountain,False,-2.171875
+590,telescope,airport,False,-3.203125
+591,airport,telescope,True,0.8125
+592,orangutan,pizza peel,True,3.265625
+593,pizza peel,orangutan,False,-0.828125
+594,faucet,hotel,False,-2.8125
+595,hotel,faucet,True,1.984375
+596,hot air balloon,oyster,True,2.1875
+597,oyster,hot air balloon,False,-1.5
+598,mosquito,faucet,False,-4.0
+599,faucet,mosquito,True,1.875
+600,paper towel holder,hot air balloon,False,-2.0
+601,hot air balloon,paper towel holder,True,4.46875
+602,mosquito,can opener,False,-0.453125
+603,can opener,mosquito,True,3.625
+604,durian,dining table,True,3.484375
+605,dining table,durian,False,-0.421875
+606,hospital,faucet,True,3.40625
+607,faucet,hospital,False,-2.765625
+608,apartment,cottage,True,3.265625
+609,cottage,apartment,False,-0.59375
+610,wheelchair,iceberg,False,-2.296875
+611,iceberg,wheelchair,True,2.03125
+612,meadow,police car,True,1.34375
+613,police car,meadow,False,-2.671875
+614,thimble,meadow,False,-2.546875
+615,meadow,thimble,True,4.8359375
+616,airport,faucet,True,3.609375
+617,faucet,airport,False,-3.421875
+618,pizza peel,reef,False,-2.0
+619,reef,pizza peel,True,1.875
+620,city,village,True,6.546875
+621,village,city,False,-2.828125
+622,corral,paper towel holder,True,2.171875
+623,paper towel holder,corral,False,-1.59375
+624,mosque,pebble,True,2.46875
+625,pebble,mosque,False,-1.53125
+626,mosquito,dining table,False,-3.890625
+627,dining table,mosquito,True,2.3125
+628,countertop,hospital,False,-2.5625
+629,hospital,countertop,True,2.4375
+630,iceberg,pizza peel,True,3.21875
+631,pizza peel,iceberg,False,-1.0625
+632,apartment,mosquito,True,3.125
+633,mosquito,apartment,False,-3.828125
+634,glue stick,telescope,False,-0.484375
+635,telescope,glue stick,True,4.09375
+636,horse,snub-nosed monkey,True,4.1328125
+637,snub-nosed monkey,horse,False,-1.9375
+638,cruise ship,pot holder,True,1.984375
+639,pot holder,cruise ship,False,-2.796875
+640,baseball,scalpel,True,3.609375
+641,scalpel,baseball,False,-1.078125
+642,rat,ice skates,False,-2.109375
+643,ice skates,rat,True,1.5625
+644,reef,donut,True,4.109375
+645,donut,reef,False,-0.75
+646,meadow,hut,True,3.90625
+647,hut,meadow,False,-2.09375
+648,horse,dining table,True,3.34375
+649,dining table,horse,False,-0.3125
+650,fish egg,tuna,False,-1.609375
+651,tuna,fish egg,True,3.3125
+652,ladle,basilica,False,-1.53125
+653,basilica,ladle,True,3.25
+654,orchid,thimble,True,2.09375
+655,thimble,orchid,False,-3.0
+656,mosquito,wheelchair,False,-2.828125
+657,wheelchair,mosquito,True,2.390625
+658,cottage,ice sheet,False,-1.40625
+659,ice sheet,cottage,True,4.796875
+660,hamster,mountain,False,-4.171875
+661,mountain,hamster,True,3.90625
+662,glue stick,hospital,False,-1.703125
+663,hospital,glue stick,True,4.2265625
+664,trail,mosquito,True,2.296875
+665,mosquito,trail,False,-2.6875
+666,scalpel,reef,False,-2.421875
+667,reef,scalpel,True,1.9375
+668,skyscraper,nebula,False,-1.21875
+669,nebula,skyscraper,True,4.2109375
+670,police car,hotel,False,-2.46875
+671,hotel,police car,True,1.203125
+672,cruise ship,cactus,True,4.5
+673,cactus,cruise ship,False,-1.46875
+674,skyscraper,police car,True,4.046875
+675,police car,skyscraper,False,-4.34375
+676,shop,faucet,True,1.96875
+677,faucet,shop,False,-2.21875
+678,driveway,ladle,True,2.09375
+679,ladle,driveway,False,-2.453125
+680,poppy seed,turtle,False,-4.265625
+681,turtle,poppy seed,True,1.5625
+682,paper towel holder,arena,False,-2.75
+683,arena,paper towel holder,True,4.3046875
+684,yurt,mosquito,True,1.265625
+685,mosquito,yurt,False,-2.578125
+686,cruise ship,outbuilding,True,0.640625
+687,outbuilding,cruise ship,False,-3.296875
+688,horse,clownfish,True,2.609375
+689,clownfish,horse,False,-4.8125
+690,mosquito,meadow,False,-2.8125
+691,meadow,mosquito,True,3.203125
+692,faucet,police car,False,-2.0625
+693,police car,faucet,True,1.65625
+694,nebula,hut,True,4.109375
+695,hut,nebula,False,-2.0
+696,thimble,city,False,-2.890625
+697,city,thimble,True,3.484375
+698,field,airport,False,-0.78125
+699,airport,field,True,5.0546875
+700,countertop,arena,False,-2.15625
+701,arena,countertop,True,3.421875
+702,snub-nosed monkey,rat,True,3.765625
+703,rat,snub-nosed monkey,False,-0.375
+704,kitchen towel,pebble,True,2.53125
+705,pebble,kitchen towel,False,-1.359375
+706,hamster,police car,False,-2.75
+707,police car,hamster,True,1.3125
+708,mussel,mosquito,True,5.03125
+709,mosquito,mussel,False,-2.09375
+710,tuna,cactus,True,3.171875
+711,cactus,tuna,False,-1.546875
+712,faucet,pizza peel,False,-0.734375
+713,pizza peel,faucet,True,2.890625
+714,hotel,hut,True,5.359375
+715,hut,hotel,False,-1.609375
+716,police car,cruise ship,False,-4.234375
+717,cruise ship,police car,True,2.453125
+718,thimble,compost bin,False,-1.328125
+719,compost bin,thimble,True,4.4375
+720,rat,desert,False,-3.0625
+721,desert,rat,True,1.9375
+722,orangutan,paper towel holder,True,3.84375
+723,paper towel holder,orangutan,False,-1.59375
+724,police station,cottage,True,5.1171875
+725,cottage,police station,False,-0.46875
+726,durian,countertop,True,2.578125
+727,countertop,durian,False,-1.71875
+728,hot air balloon,reef,False,-1.953125
+729,reef,hot air balloon,True,3.0234375
+730,baseball,faucet,True,4.265625
+731,faucet,baseball,False,-1.375
+732,hotel,glue stick,True,3.265625
+733,glue stick,hotel,False,-2.21875
+734,iceberg,scalpel,True,2.875
+735,scalpel,iceberg,False,-3.109375
+736,poppy seed,iceberg,False,-4.4375
+737,iceberg,poppy seed,True,2.078125
+738,skyscraper,yurt,True,3.03125
+739,yurt,skyscraper,False,-3.359375
+740,apartment,meadow,False,-1.796875
+741,meadow,apartment,True,3.984375
+742,mountain,cracker crumb,True,3.375
+743,cracker crumb,mountain,False,-2.0625
+744,nebula,cactus,True,4.7578125
+745,cactus,nebula,False,-1.171875
+746,hut,corral,False,-0.5625
+747,corral,hut,True,3.359375
+748,cactus,field,False,-0.859375
+749,field,cactus,True,3.265625
+750,desktop,cactus,True,3.296875
+751,cactus,desktop,False,-0.84375
+752,skyscraper,countertop,True,1.78125
+753,countertop,skyscraper,False,-2.78125
+754,can opener,mountain,False,-3.765625
+755,mountain,can opener,True,5.1484375
+756,pebble,orangutan,False,-3.015625
+757,orangutan,pebble,True,4.5
+758,donut,arena,False,-1.578125
+759,arena,donut,True,2.8125
+760,mosquito,hot air balloon,False,-4.25
+761,hot air balloon,mosquito,True,4.5625
+762,cruise ship,dining table,True,1.1875
+763,dining table,cruise ship,False,-2.5625
+764,thimble,road,False,-1.765625
+765,road,thimble,True,4.03125
+766,hut,shop,False,-0.671875
+767,shop,hut,True,5.59375
+768,durian,sink,True,2.484375
+769,sink,durian,False,-1.171875
+770,tuna,pearl barley,True,1.625
+771,pearl barley,tuna,False,-2.0625
+772,horse,grape,True,3.625
+773,grape,horse,False,-1.78125
+774,outbuilding,desert,False,-3.015625
+775,desert,outbuilding,True,2.609375
+776,hut,telescope,False,-1.53125
+777,telescope,hut,True,3.421875
+778,basilica,yurt,True,4.0
+779,yurt,basilica,False,-0.875
+780,paper towel holder,hotel,False,-2.15625
+781,hotel,paper towel holder,True,3.140625
+782,trail,cottage,True,3.140625
+783,cottage,trail,False,-1.1875
+784,glue stick,reef,False,-1.75
+785,reef,glue stick,True,4.3671875
+786,mountain,scalpel,True,2.75
+787,scalpel,mountain,False,-3.953125
+788,ice sheet,faucet,True,3.921875
+789,faucet,ice sheet,False,-2.328125
+790,corral,thimble,True,3.75
+791,thimble,corral,False,-1.0
+792,city,ladle,True,2.78125
+793,ladle,city,False,-3.234375
+794,turtle,hamster,True,3.296875
+795,hamster,turtle,False,-0.40625
+796,telescope,mosquito,True,3.75
+797,mosquito,telescope,False,-2.890625
+798,mountain,wheelchair,True,1.640625
+799,wheelchair,mountain,False,-2.96875
+800,hamster,city,False,-3.5
+801,city,hamster,True,2.890625
+802,cruise ship,rat,True,3.5625
+803,rat,cruise ship,False,-3.140625
+804,village,ice sheet,False,-2.015625
+805,ice sheet,village,True,2.578125
+806,hospital,ladle,True,2.890625
+807,ladle,hospital,False,-2.25
+808,hut,horse,False,-0.921875
+809,horse,hut,True,4.9140625
+810,donut,pebble,True,5.671875
+811,pebble,donut,False,-0.0625
+812,hamster,mosquito,True,2.015625
+813,mosquito,hamster,False,-2.953125
+814,horse,paper towel holder,True,4.546875
+815,paper towel holder,horse,False,-0.671875
+816,mosquito,octopus,False,-3.3125
+817,octopus,mosquito,True,5.0625
+818,can opener,hotel,False,-2.140625
+819,hotel,can opener,True,3.796875
+820,cabin cruiser,reef,False,-1.09375
+821,reef,cabin cruiser,True,3.046875
+822,power cord,airport,False,-2.84375
+823,airport,power cord,True,1.4375
+824,faucet,arena,False,-2.75
+825,arena,faucet,True,2.640625
+826,ladle,mountain,False,-3.671875
+827,mountain,ladle,True,4.3125
+828,iceberg,shop,True,2.28125
+829,shop,iceberg,False,-1.921875
+830,pebble,ladle,False,-0.015625
+831,ladle,pebble,True,4.2734375
+832,horse,turtle,True,6.0078125
+833,turtle,horse,False,-2.09375
+834,paper towel holder,field,False,-2.09375
+835,field,paper towel holder,True,2.59375
+836,thimble,desert,False,-1.859375
+837,desert,thimble,True,3.703125
+838,pretzel,nebula,False,-1.34375
+839,nebula,pretzel,True,3.15625
+840,pebble,meadow,False,-2.359375
+841,meadow,pebble,True,2.671875
+842,shop,mountain,False,-1.40625
+843,mountain,shop,True,4.8828125
+844,yurt,thimble,True,4.0390625
+845,thimble,yurt,False,-0.5
+846,faucet,countertop,False,-1.9375
+847,countertop,faucet,True,1.8125
+848,reef,pebble,True,6.2734375
+849,pebble,reef,False,-1.78125
+850,airport,sugar glider,True,0.453125
+851,sugar glider,airport,False,-4.125
+852,glue stick,city,False,-2.921875
+853,city,glue stick,True,3.515625
+854,mountain,paper towel holder,True,4.7265625
+855,paper towel holder,mountain,False,-3.890625
+856,pizza peel,durian,False,-0.796875
+857,durian,pizza peel,True,3.46875
+858,cookie crumb,mosquito,True,2.875
+859,mosquito,cookie crumb,False,-1.359375
+860,hot air balloon,faucet,True,1.796875
+861,faucet,hot air balloon,False,-2.671875
+862,orangutan,skunk,True,3.375
+863,skunk,orangutan,False,-2.34375
+864,reef,shop,True,3.34375
+865,shop,reef,False,-0.390625
+866,horse,skyscraper,False,-0.28125
+867,skyscraper,horse,True,4.578125
+868,skyscraper,can opener,True,4.640625
+869,can opener,skyscraper,False,-2.140625
+870,hot air balloon,wheelchair,True,2.53125
+871,wheelchair,hot air balloon,False,-1.09375
+872,turtle,durian,False,-0.96875
+873,durian,turtle,True,3.046875
+874,hospital,snub-nosed monkey,True,2.171875
+875,snub-nosed monkey,hospital,False,-1.515625
+876,pebble,iceberg,False,-2.453125
+877,iceberg,pebble,True,7.125
+878,bread slice,reef,False,-1.328125
+879,reef,bread slice,True,2.546875
+880,village,mosquito,True,1.640625
+881,mosquito,village,False,-4.203125
+882,outbuilding,meadow,False,-2.8125
+883,meadow,outbuilding,True,1.5625
+884,road,hut,True,4.9296875
+885,hut,road,False,-1.46875
+886,compost bin,hospital,False,-1.5625
+887,hospital,compost bin,True,3.03125
+888,cruise ship,ice sheet,False,-1.375
+889,ice sheet,cruise ship,True,2.75
+890,desktop,field,False,-1.28125
+891,field,desktop,True,2.78125
+892,thimble,durian,False,-1.765625
+893,durian,thimble,True,3.6875
+894,ice skates,pebble,True,4.359375
+895,pebble,ice skates,False,-0.640625
+896,paper towel holder,village,False,-2.5
+897,village,paper towel holder,True,1.78125
+898,power cord,mosquito,True,3.109375
+899,mosquito,power cord,False,-2.8125
+900,mountain,timer,True,2.703125
+901,timer,mountain,False,-1.578125
+902,cactus,ferry,False,-0.140625
+903,ferry,cactus,True,4.75
+904,hotel,mountain,False,-1.875
+905,mountain,hotel,True,4.0078125
+906,arena,city,False,-1.46875
+907,city,arena,True,3.0390625
+908,nebula,donut,True,3.71875
+909,donut,nebula,False,-0.953125
+910,cottage,iceberg,False,-2.265625
+911,iceberg,cottage,True,5.6015625
+912,can opener,raspberry,False,-1.671875
+913,raspberry,can opener,True,2.765625
+914,thimble,driveway,False,-2.953125
+915,driveway,thimble,True,3.515625
+916,turtle,desert,False,-1.984375
+917,desert,turtle,True,3.328125
+918,horse,cruise ship,False,-0.109375
+919,cruise ship,horse,True,3.578125
+920,city,can opener,True,4.5234375
+921,can opener,city,False,-2.625
+922,mosquito,space probe,False,-3.125
+923,space probe,mosquito,True,3.484375
+924,skyscraper,cabin cruiser,True,2.609375
+925,cabin cruiser,skyscraper,False,-2.921875
+926,road,pot holder,True,2.40625
+927,pot holder,road,False,-1.453125
+928,faucet,swamp,False,-1.875
+929,swamp,faucet,True,2.84375
+930,fish egg,Tasmanian devil,False,-1.28125
+931,Tasmanian devil,fish egg,True,4.015625
+932,dining table,arena,False,-1.390625
+933,arena,dining table,True,3.84375
+934,cottage,corral,False,-0.46875
+935,corral,cottage,True,3.265625
+936,cactus,airport,False,-2.484375
+937,airport,cactus,True,4.84375
+938,olive,mountain,False,-1.828125
+939,mountain,olive,True,2.265625
+940,hamster,traffic light,False,-1.640625
+941,traffic light,hamster,True,2.25
+942,raspberry,poppy seed,True,3.265625
+943,poppy seed,raspberry,False,-2.5625
+944,field,hut,True,4.984375
+945,hut,field,False,-1.515625
+946,skunk,mosquito,True,4.9609375
+947,mosquito,skunk,False,-3.0
+948,field,ladle,True,3.21875
+949,ladle,field,False,-2.15625
+950,paper towel holder,basilica,False,-1.859375
+951,basilica,paper towel holder,True,3.859375
+952,ladle,tuna,False,-0.921875
+953,tuna,ladle,True,3.8125
+954,skyscraper,traffic light,True,3.28125
+955,traffic light,skyscraper,False,-1.359375
+956,road,cactus,True,4.421875
+957,cactus,road,False,-1.203125
+958,meadow,octopus,True,2.015625
+959,octopus,meadow,False,-1.71875
+960,mosquito,horse,False,-5.109375
+961,horse,mosquito,True,6.1328125
+962,pebble,mussel,False,0.0
+963,mussel,pebble,True,5.5078125
+964,hot air balloon,poppy seed,True,0.09375
+965,poppy seed,hot air balloon,False,-4.21875
+966,sink,city,False,-2.46875
+967,city,sink,True,2.84375
+968,horse,skunk,True,5.0390625
+969,skunk,horse,False,-2.3125
+970,driveway,hut,True,2.75
+971,hut,driveway,False,-2.15625
+972,apartment,reef,False,-1.796875
+973,reef,apartment,True,2.265625
+974,octopus,sugar glider,True,0.96875
+975,sugar glider,octopus,False,-2.921875
+976,police station,mosquito,True,1.796875
+977,mosquito,police station,False,-3.4375
+978,orchid,pebble,True,3.953125
+979,pebble,orchid,False,-3.125
+980,pot holder,traffic light,False,-0.734375
+981,traffic light,pot holder,True,3.296875
+982,police car,hospital,False,-1.53125
+983,hospital,police car,True,3.796875
+984,road,ladle,True,2.796875
+985,ladle,road,False,-1.734375
+986,hospital,pot holder,True,2.734375
+987,pot holder,hospital,False,-1.421875
+988,pebble,apartment,False,-1.765625
+989,apartment,pebble,True,2.1875
+990,mosquito,swamp,False,-2.46875
+991,swamp,mosquito,True,3.5
+992,turtle,ice sheet,False,-0.984375
+993,ice sheet,turtle,True,3.609375
+994,dining table,meadow,False,-1.59375
+995,meadow,dining table,True,3.296875
+996,pretzel,durian,False,-0.171875
+997,durian,pretzel,True,4.8515625
+998,mosquito,corral,False,-2.15625
+999,corral,mosquito,True,1.796875
+1000,glue stick,basilica,False,-1.234375
+1001,basilica,glue stick,True,3.8359375
+1002,cruise ship,turtle,True,3.859375
+1003,turtle,cruise ship,False,-1.71875
+1004,can opener,police car,False,-0.953125
+1005,police car,can opener,True,4.7421875
+1006,arena,hamster,True,1.640625
+1007,hamster,arena,False,-3.046875
+1008,iceberg,rat,True,3.859375
+1009,rat,iceberg,False,-2.484375
+1010,olive,mosquito,True,5.3359375
+1011,mosquito,olive,False,-2.234375
+1012,reef,oyster,True,4.5
+1013,oyster,reef,False,-0.453125
+1014,traffic light,hospital,False,-0.296875
+1015,hospital,traffic light,True,3.484375
+1016,skyscraper,donut,True,3.7734375
+1017,donut,skyscraper,False,-1.359375
+1018,nebula,paper towel holder,True,4.09375
+1019,paper towel holder,nebula,False,-2.125
+1020,ice sheet,hut,True,4.3515625
+1021,hut,ice sheet,False,-1.921875
+1022,mosquito,hospital,False,-3.1875
+1023,hospital,mosquito,True,3.53125
+1024,road,pebble,True,4.6796875
+1025,pebble,road,False,-1.015625
+1026,iceberg,hamster,True,2.6875
+1027,hamster,iceberg,False,-2.828125
+1028,apartment,desert,False,-0.546875
+1029,desert,apartment,True,3.90625
+1030,snub-nosed monkey,iceberg,False,-1.875
+1031,iceberg,snub-nosed monkey,True,1.84375
+1032,police station,glue stick,True,2.921875
+1033,glue stick,police station,False,-0.796875
+1034,mountain,pretzel,True,3.8671875
+1035,pretzel,mountain,False,-3.03125
+1036,hospital,thimble,True,3.46875
+1037,thimble,hospital,False,-1.640625
+1038,ladle,mosquito,True,2.6875
+1039,mosquito,ladle,False,-2.359375
+1040,ferry,police station,True,3.5
+1041,police station,ferry,False,-0.125
+1042,skyscraper,desert,False,-2.234375
+1043,desert,skyscraper,True,2.65625
+1044,police station,hot air balloon,False,-1.453125
+1045,hot air balloon,police station,True,2.640625
+1046,hamster,hospital,False,-2.390625
+1047,hospital,hamster,True,2.4375
+1048,trail,paper towel holder,True,2.984375
+1049,paper towel holder,trail,False,-1.75
+1050,glue stick,mountain,False,-3.40625
+1051,mountain,glue stick,True,4.875
+1052,can opener,ice sheet,False,-1.90625
+1053,ice sheet,can opener,True,4.671875
+1054,iceberg,apartment,True,2.484375
+1055,apartment,iceberg,False,-2.46875
+1056,atom,arena,False,-2.390625
+1057,arena,atom,True,1.890625
+1058,durian,mosquito,True,5.5859375
+1059,mosquito,durian,False,-2.59375
+1060,pebble,baseball,False,-0.703125
+1061,baseball,pebble,True,6.6953125
+1062,cabin cruiser,mountain,False,-1.765625
+1063,mountain,cabin cruiser,True,3.6953125
+1064,airport,yurt,True,3.6875
+1065,yurt,airport,False,-3.640625
+1066,faucet,apartment,False,-2.9375
+1067,apartment,faucet,True,1.328125
+1068,skyscraper,pebble,True,4.078125
+1069,pebble,skyscraper,False,-2.140625
+1070,cactus,reef,False,-1.625
+1071,reef,cactus,True,4.96875
+1072,thimble,cruise ship,False,-2.625
+1073,cruise ship,thimble,True,3.625
+1074,mosque,hut,True,3.6015625
+1075,hut,mosque,False,-1.671875
+1076,horse,mussel,True,2.640625
+1077,mussel,horse,False,-3.40625
+1078,glue stick,hot air balloon,False,-1.375
+1079,hot air balloon,glue stick,True,2.4375
+1080,desert,police car,True,1.671875
+1081,police car,desert,False,-2.796875
+1082,orangutan,scalpel,True,2.25
+1083,scalpel,orangutan,False,-2.515625
+1084,hotel,city,False,-1.859375
+1085,city,hotel,True,2.71875
+1086,village,arena,False,-0.609375
+1087,arena,village,True,3.578125
+1088,meadow,atom,True,0.28125
+1089,atom,meadow,False,-3.46875
+1090,airport,sink,True,2.375
+1091,sink,airport,False,-3.375
+1092,reef,cracker crumb,True,3.5078125
+1093,cracker crumb,reef,False,-0.15625
+1094,bread slice,orangutan,False,-1.765625
+1095,orangutan,bread slice,True,1.9375
+1096,snub-nosed monkey,pebble,True,5.125
+1097,pebble,snub-nosed monkey,False,-1.234375
+1098,turtle,hospital,False,-1.484375
+1099,hospital,turtle,True,3.875
+1100,desert,ladle,True,3.3125
+1101,ladle,desert,False,-1.15625
+1102,mountain,yurt,True,3.234375
+1103,yurt,mountain,False,-2.5
+1104,can opener,apartment,False,-2.125
+1105,apartment,can opener,True,4.1484375
+1106,corral,meadow,False,-0.328125
+1107,meadow,corral,True,3.3671875
+1108,iceberg,atom,True,1.5625
+1109,atom,iceberg,False,-2.71875
+1110,apartment,hut,True,4.484375
+1111,hut,apartment,False,-1.28125
+1112,basilica,can opener,True,3.6328125
+1113,can opener,basilica,False,-1.359375
+1114,mosquito,bread slice,False,-2.140625
+1115,bread slice,mosquito,True,3.984375
+1116,pebble,timer,False,-0.09375
+1117,timer,pebble,True,4.2421875
+1118,outbuilding,airport,False,-3.765625
+1119,airport,outbuilding,True,3.609375
+1120,road,power cord,True,2.515625
+1121,power cord,road,False,-1.5625
+1122,hut,police station,False,-0.984375
+1123,police station,hut,True,4.4375
+1124,sink,faucet,True,4.390625
+1125,faucet,sink,False,-1.734375
+1126,thimble,sink,False,-1.421875
+1127,sink,thimble,True,4.28125
+1128,horse,cookie crumb,True,3.453125
+1129,cookie crumb,horse,False,-2.28125
+1130,skyscraper,dining table,True,4.484375
+1131,dining table,skyscraper,False,-2.265625
+1132,countertop,iceberg,False,-2.75
+1133,iceberg,countertop,True,3.78125
+1134,dining table,hospital,False,-0.25
+1135,hospital,dining table,True,4.1171875
+1136,kitchen towel,mountain,False,-3.375
+1137,mountain,kitchen towel,True,1.59375
+1138,scalpel,raspberry,False,-2.484375
+1139,raspberry,scalpel,True,1.53125
+1140,cactus,poppy seed,True,0.078125
+1141,poppy seed,cactus,False,-4.765625
+1142,orangutan,snub-nosed monkey,True,4.90625
+1143,snub-nosed monkey,orangutan,False,-1.359375
+1144,skyscraper,pretzel,True,2.859375
+1145,pretzel,skyscraper,False,-1.046875
+1146,mosquito,ice skates,False,-3.328125
+1147,ice skates,mosquito,True,4.125
+1148,city,cactus,True,5.3125
+1149,cactus,city,False,-1.96875
+1150,cruise ship,faucet,True,0.265625
+1151,faucet,cruise ship,False,-3.375
+1152,horse,pizza peel,True,3.7421875
+1153,pizza peel,horse,False,-1.6875
+1154,mountain,turtle,True,4.6875
+1155,turtle,mountain,False,-3.875
+1156,cactus,iceberg,False,-0.21875
+1157,iceberg,cactus,True,5.0859375
+1158,reef,can opener,True,4.0
+1159,can opener,reef,False,-2.015625
+1160,airport,cabin cruiser,True,2.796875
+1161,cabin cruiser,airport,False,-2.234375
+1162,paper towel holder,Tasmanian devil,False,-1.09375
+1163,Tasmanian devil,paper towel holder,True,3.296875
+1164,ladle,hotel,False,-2.140625
+1165,hotel,ladle,True,1.875
+1166,hut,olive,False,-1.046875
+1167,olive,hut,True,3.078125
+1168,snub-nosed monkey,mosquito,True,2.390625
+1169,mosquito,snub-nosed monkey,False,-2.5
+1170,thimble,apartment,False,-2.453125
+1171,apartment,thimble,True,4.1171875
+1172,airport,grape,True,1.453125
+1173,grape,airport,False,-2.234375
+1174,turtle,city,False,-1.484375
+1175,city,turtle,True,5.015625
+1176,desert,oyster,True,3.0
+1177,oyster,desert,False,-1.625
+1178,mosquito,cruise ship,False,-4.734375
+1179,cruise ship,mosquito,True,3.625
+1180,cottage,orangutan,False,-1.921875
+1181,orangutan,cottage,True,2.0625
+1182,paper towel holder,road,False,-2.421875
+1183,road,paper towel holder,True,4.53125
+1184,scalpel,pizza peel,False,-1.015625
+1185,pizza peel,scalpel,True,2.734375
+1186,countertop,reef,False,-2.15625
+1187,reef,countertop,True,2.046875
+1188,pretzel,meadow,False,-1.734375
+1189,meadow,pretzel,True,2.203125
+1190,orangutan,compost bin,True,3.984375
+1191,compost bin,orangutan,False,-1.625
+1192,skyscraper,rat,True,3.203125
+1193,rat,skyscraper,False,-2.375
+1194,orangutan,pot holder,True,2.4375
+1195,pot holder,orangutan,False,-1.5625
+1196,basilica,pebble,True,2.828125
+1197,pebble,basilica,False,-1.546875
+1198,desktop,iceberg,False,-2.078125
+1199,iceberg,desktop,True,1.625
+1200,airport,timer,True,1.453125
+1201,timer,airport,False,-2.28125
+1202,desert,sink,True,2.21875
+1203,sink,desert,False,-1.828125
+1204,snub-nosed monkey,airport,False,-2.640625
+1205,airport,snub-nosed monkey,True,1.640625
+1206,hospital,cottage,True,5.609375
+1207,cottage,hospital,False,-0.640625
+1208,cactus,hospital,False,-0.25
+1209,hospital,cactus,True,4.2109375
+1210,paper towel holder,hospital,False,-2.34375
+1211,hospital,paper towel holder,True,4.6953125
+1212,orangutan,glue stick,True,4.90625
+1213,glue stick,orangutan,False,-1.875
+1214,mountain,mussel,True,1.5625
+1215,mussel,mountain,False,-2.546875
+1216,field,turtle,True,3.59375
+1217,turtle,field,False,-1.3125
+1218,skyscraper,outbuilding,True,3.7421875
+1219,outbuilding,skyscraper,False,-4.015625
+1220,traffic light,arena,False,-1.296875
+1221,arena,traffic light,True,3.1875
+1222,power cord,iceberg,False,-2.734375
+1223,iceberg,power cord,True,1.984375
+1224,horse,scalpel,True,1.640625
+1225,scalpel,horse,False,-2.671875
+1226,scalpel,desert,False,-2.46875
+1227,desert,scalpel,True,1.6875
+1228,city,pizza peel,True,1.453125
+1229,pizza peel,city,False,-2.265625
+1230,outbuilding,reef,False,-2.703125
+1231,reef,outbuilding,True,1.515625
+1232,poppy seed,olive,False,-1.21875
+1233,olive,poppy seed,True,5.0703125
+1234,can opener,dining table,False,-1.0
+1235,dining table,can opener,True,4.96875
+1236,orchid,mosquito,True,2.859375
+1237,mosquito,orchid,False,-4.65625
+1238,cookie crumb,durian,False,-1.4375
+1239,durian,cookie crumb,True,3.265625
+1240,clownfish,ferry,False,-3.359375
+1241,ferry,clownfish,True,1.5
+1242,ladle,cruise ship,False,-3.0625
+1243,cruise ship,ladle,True,2.3125
+1244,paper towel holder,desert,False,-2.375
+1245,desert,paper towel holder,True,3.828125
+1246,city,fish egg,True,2.625
+1247,fish egg,city,False,-1.65625
+1248,iceberg,road,True,4.3359375
+1249,road,iceberg,False,-1.234375
+1250,sugar glider,Tasmanian devil,False,-1.890625
+1251,Tasmanian devil,sugar glider,True,3.53125
+1252,ladle,ferry,False,0.0
+1253,ferry,ladle,True,4.109375
+1254,arena,police car,True,2.265625
+1255,police car,arena,False,-3.1875
+1256,mountain,village,True,5.53125
+1257,village,mountain,False,-1.3125
+1258,trail,hut,True,3.25
+1259,hut,trail,False,-1.125
+1260,can opener,hospital,False,-1.859375
+1261,hospital,can opener,True,4.7734375
+1262,grape,iceberg,False,-0.578125
+1263,iceberg,grape,True,3.671875
+1264,iceberg,ladle,True,4.6171875
+1265,ladle,iceberg,False,-1.984375
+1266,ice sheet,scalpel,True,2.109375
+1267,scalpel,ice sheet,False,-2.640625
+1268,pebble,sugar glider,False,-1.53125
+1269,sugar glider,pebble,True,2.390625
+1270,hot air balloon,mountain,False,-1.4375
+1271,mountain,hot air balloon,True,3.890625
+1272,poppy seed,reef,False,-3.734375
+1273,reef,poppy seed,True,0.359375
+1274,mosquito,traffic light,False,-3.25
+1275,traffic light,mosquito,True,4.78125
+1276,hut,tuna,False,-1.046875
+1277,tuna,hut,True,3.171875
+1278,horse,compost bin,True,3.9609375
+1279,compost bin,horse,False,-0.953125
+1280,rat,baseball,False,-0.484375
+1281,baseball,rat,True,3.640625
+1282,pebble,skunk,False,-0.703125
+1283,skunk,pebble,True,5.2578125
+1284,basilica,mountain,False,-2.546875
+1285,mountain,basilica,True,2.578125
+1286,yurt,hospital,False,-2.1875
+1287,hospital,yurt,True,4.046875
+1288,durian,can opener,True,4.96875
+1289,can opener,durian,False,-1.5625
+1290,tuna,sugar glider,True,0.0625
+1291,sugar glider,tuna,False,-3.8125
+1292,thimble,oyster,False,0.0
+1293,oyster,thimble,True,3.875
+1294,hamster,road,False,-2.53125
+1295,road,hamster,True,1.140625
+1296,traffic light,pebble,True,4.9140625
+1297,pebble,traffic light,False,-0.21875
+1298,ice sheet,power cord,True,2.375
+1299,power cord,ice sheet,False,-1.96875
+1300,airport,cottage,True,5.4296875
+1301,cottage,airport,False,-3.046875
+1302,reef,baseball,True,3.484375
+1303,baseball,reef,False,-0.375
+1304,donut,tuna,False,-0.359375
+1305,tuna,donut,True,4.2109375
+1306,skyscraper,pot holder,True,2.203125
+1307,pot holder,skyscraper,False,-2.015625
+1308,mountain,hospital,True,3.8125
+1309,hospital,mountain,False,-0.421875
+1310,driveway,faucet,True,1.625
+1311,faucet,driveway,False,-2.75
+1312,orchid,reef,False,-2.984375
+1313,reef,orchid,True,1.25
+1314,iceberg,glue stick,True,4.9296875
+1315,glue stick,iceberg,False,-1.6875
+1316,hotel,pot holder,True,2.21875
+1317,pot holder,hotel,False,-1.5625
+1318,mosquito,mountain,False,-5.0625
+1319,mountain,mosquito,True,5.1796875
+1320,traffic light,meadow,False,-1.03125
+1321,meadow,traffic light,True,2.625
+1322,glue stick,olive,False,-0.46875
+1323,olive,glue stick,True,4.4296875
+1324,can opener,olive,False,-0.78125
+1325,olive,can opener,True,3.78125
+1326,mosque,mosquito,True,3.34375
+1327,mosquito,mosque,False,-1.109375
+1328,paper towel holder,driveway,False,-2.46875
+1329,driveway,paper towel holder,True,3.484375
+1330,swamp,glue stick,True,4.0625
+1331,glue stick,swamp,False,-0.890625
+1332,paper towel holder,airport,False,-3.3125
+1333,airport,paper towel holder,True,5.0625
+1334,shop,paper towel holder,True,3.1875
+1335,paper towel holder,shop,False,-2.09375
+1336,orangutan,hut,True,3.109375
+1337,hut,orangutan,False,-1.390625
+1338,apartment,rat,True,2.5
+1339,rat,apartment,False,-1.15625
+1340,pebble,Tasmanian devil,False,-1.75
+1341,Tasmanian devil,pebble,True,5.109375
+1342,city,mosquito,True,4.5078125
+1343,mosquito,city,False,-4.234375
+1344,corral,horse,False,-0.640625
+1345,horse,corral,True,3.234375
+1346,ice sheet,paper towel holder,True,4.875
+1347,paper towel holder,ice sheet,False,-1.734375
+1348,pot holder,desert,False,-1.34375
+1349,desert,pot holder,True,2.625
+1350,meadow,yurt,True,1.796875
+1351,yurt,meadow,False,-2.390625
+1352,pebble,ice sheet,False,-1.609375
+1353,ice sheet,pebble,True,3.921875
+1354,mountain,police car,True,4.2265625
+1355,police car,mountain,False,-4.53125
+1356,apartment,paper towel holder,True,2.84375
+1357,paper towel holder,apartment,False,-3.171875
+1358,pot holder,airport,False,-2.875
+1359,airport,pot holder,True,3.46875
+1360,ladle,swamp,False,-1.3125
+1361,swamp,ladle,True,3.1875
+1362,cruise ship,pizza peel,True,0.6875
+1363,pizza peel,cruise ship,False,-3.0
+1364,can opener,driveway,False,-2.4375
+1365,driveway,can opener,True,3.84375
+1366,cottage,thimble,True,3.1875
+1367,thimble,cottage,False,-0.78125
+1368,hot air balloon,compost bin,True,2.578125
+1369,compost bin,hot air balloon,False,-1.09375
+1370,pot holder,reef,False,-1.765625
+1371,reef,pot holder,True,2.78125
+1372,road,donut,True,4.0546875
+1373,donut,road,False,-0.515625
+1374,desert,snub-nosed monkey,True,0.921875
+1375,snub-nosed monkey,desert,False,-2.734375
+1376,glue stick,meadow,False,-2.046875
+1377,meadow,glue stick,True,3.28125
+1378,mountain,countertop,True,3.90625
+1379,countertop,mountain,False,-3.703125
+1380,cottage,hot air balloon,False,-1.546875
+1381,hot air balloon,cottage,True,3.390625
+1382,pebble,pearl barley,False,0.0
+1383,pearl barley,pebble,True,5.0859375
+1384,arena,yurt,True,2.640625
+1385,yurt,arena,False,-1.28125
+1386,iceberg,police station,True,4.0
+1387,police station,iceberg,False,-2.78125
+1388,hut,desktop,False,-1.25
+1389,desktop,hut,True,3.375
+1390,glue stick,apartment,False,-2.3125
+1391,apartment,glue stick,True,3.25
+1392,raspberry,pebble,True,5.703125
+1393,pebble,raspberry,False,-1.6875
+1394,basilica,city,False,-2.90625
+1395,city,basilica,True,1.546875
+1396,airport,hot air balloon,True,2.09375
+1397,hot air balloon,airport,False,-2.09375
+1398,sink,paper towel holder,True,3.1875
+1399,paper towel holder,sink,False,-1.046875
+1400,city,corral,True,2.890625
+1401,corral,city,False,-2.828125
+1402,skyscraper,glue stick,True,3.703125
+1403,glue stick,skyscraper,False,-2.734375
+1404,traffic light,road,False,-0.890625
+1405,road,traffic light,True,2.8125
+1406,paper towel holder,traffic light,False,-1.078125
+1407,traffic light,paper towel holder,True,4.546875
+1408,city,nebula,False,-0.078125
+1409,nebula,city,True,3.546875
+1410,Tasmanian devil,cottage,True,1.46875
+1411,cottage,Tasmanian devil,False,-2.25
+1412,airport,fish egg,True,2.609375
+1413,fish egg,airport,False,-2.515625
+1414,snub-nosed monkey,mountain,False,-1.109375
+1415,mountain,snub-nosed monkey,True,2.65625
+1416,mountain,police station,True,4.34375
+1417,police station,mountain,False,-3.765625
+1418,can opener,mosque,False,-0.671875
+1419,mosque,can opener,True,3.234375
+1420,orangutan,ladle,True,2.171875
+1421,ladle,orangutan,False,-1.71875
+1422,pizza peel,mosquito,True,3.78125
+1423,mosquito,pizza peel,False,-1.890625
+1424,nebula,atom,True,1.9375
+1425,atom,nebula,False,-1.8125
+1426,glue stick,Tasmanian devil,False,-0.609375
+1427,Tasmanian devil,glue stick,True,4.4921875
+1428,reef,compost bin,True,2.375
+1429,compost bin,reef,False,-1.96875
+1430,thimble,horse,False,-3.328125
+1431,horse,thimble,True,5.5078125
+1432,arena,power cord,True,1.25
+1433,power cord,arena,False,-2.5625
+1434,traffic light,iceberg,False,-1.34375
+1435,iceberg,traffic light,True,3.375
+1436,iceberg,horse,True,4.78125
+1437,horse,iceberg,False,-0.671875
+1438,mosquito,rat,False,-3.296875
+1439,rat,mosquito,True,4.671875
+1440,desert,glue stick,True,4.046875
+1441,glue stick,desert,False,-2.171875
+1442,mountain,traffic light,True,4.3828125
+1443,traffic light,mountain,False,-2.4375
+1444,thimble,cabin cruiser,False,-1.828125
+1445,cabin cruiser,thimble,True,2.234375
+1446,cruise ship,hut,True,3.421875
+1447,hut,cruise ship,False,-2.875
+1448,Tasmanian devil,hamster,True,4.296875
+1449,hamster,Tasmanian devil,False,-1.203125
+1450,road,cabin cruiser,True,2.796875
+1451,cabin cruiser,road,False,-0.96875
+1452,scalpel,telescope,False,-1.703125
+1453,telescope,scalpel,True,2.109375
+1454,pebble,clownfish,False,-1.171875
+1455,clownfish,pebble,True,2.53125
+1456,hut,mountain,False,-3.078125
+1457,mountain,hut,True,5.71875
+1458,grape,durian,False,0.0
+1459,durian,grape,True,3.75
+1460,iceberg,can opener,True,5.0390625
+1461,can opener,iceberg,False,-2.703125
+1462,arena,thimble,True,5.4375
+1463,thimble,arena,False,-2.65625
+1464,thimble,village,False,-1.796875
+1465,village,thimble,True,2.046875
+1466,nebula,bread slice,True,2.4375
+1467,bread slice,nebula,False,-1.390625
+1468,pebble,hospital,False,-1.75
+1469,hospital,pebble,True,2.53125
+1470,pebble,mosquito,True,3.078125
+1471,mosquito,pebble,False,-1.234375
+1472,oyster,meadow,False,-2.015625
+1473,meadow,oyster,True,2.640625
+1474,octopus,desert,False,-1.46875
+1475,desert,octopus,True,2.5
+1476,durian,cracker crumb,True,5.2265625
+1477,cracker crumb,durian,False,-1.03125
+1478,rat,hot air balloon,False,-2.546875
+1479,hot air balloon,rat,True,1.8125
+1480,basilica,faucet,True,1.765625
+1481,faucet,basilica,False,-2.109375
+1482,can opener,trail,False,-1.71875
+1483,trail,can opener,True,3.359375
+1484,reef,dining table,True,3.90625
+1485,dining table,reef,False,-1.78125
+1486,donut,orangutan,False,-0.328125
+1487,orangutan,donut,True,4.6328125
+1488,ice sheet,police car,True,3.453125
+1489,police car,ice sheet,False,-1.3125
+1490,hut,hospital,False,-1.96875
+1491,hospital,hut,True,6.125
+1492,nebula,rat,True,2.390625
+1493,rat,nebula,False,-2.484375
+1494,faucet,telescope,False,-1.3125
+1495,telescope,faucet,True,3.203125
+1496,can opener,arena,False,-2.34375
+1497,arena,can opener,True,4.3046875
+1498,arena,mosquito,True,3.453125
+1499,mosquito,arena,False,-4.15625
+1500,orangutan,cactus,True,3.46875
+1501,cactus,orangutan,False,-2.140625
+1502,field,dining table,True,3.453125
+1503,dining table,field,False,-0.34375
+1504,horse,orchid,True,2.859375
+1505,orchid,horse,False,-3.28125
+1506,thimble,desktop,False,-1.546875
+1507,desktop,thimble,True,2.734375
+1508,desktop,paper towel holder,True,2.671875
+1509,paper towel holder,desktop,False,-1.390625
+1510,trail,thimble,True,2.734375
+1511,thimble,trail,False,-1.265625
+1512,hospital,village,True,3.171875
+1513,village,hospital,False,-0.75
+1514,ferry,mountain,False,-1.140625
+1515,mountain,ferry,True,3.5703125
+1516,can opener,ferry,False,-1.375
+1517,ferry,can opener,True,4.9921875
+1518,scalpel,arena,False,-3.09375
+1519,arena,scalpel,True,1.4375
+1520,ice sheet,countertop,True,2.78125
+1521,countertop,ice sheet,False,-1.40625
+1522,iceberg,slice of cheese,True,4.109375
+1523,slice of cheese,iceberg,False,-0.640625
+1524,hot air balloon,atom,True,1.03125
+1525,atom,hot air balloon,False,-2.90625
+1526,octopus,airport,False,-1.71875
+1527,airport,octopus,True,1.984375
+1528,clownfish,octopus,False,-3.125
+1529,octopus,clownfish,True,1.796875
+1530,horse,sink,True,3.453125
+1531,sink,horse,False,-0.96875
+1532,bread slice,iceberg,False,-1.859375
+1533,iceberg,bread slice,True,3.9375
+1534,horse,hamster,True,6.109375
+1535,hamster,horse,False,-4.34375
+1536,Tasmanian devil,can opener,True,5.0078125
+1537,can opener,Tasmanian devil,False,-0.625
+1538,hotel,compost bin,True,1.765625
+1539,compost bin,hotel,False,-2.359375
+1540,grape,glue stick,True,3.640625
+1541,glue stick,grape,False,-0.296875
+1542,skyscraper,compost bin,True,3.71875
+1543,compost bin,skyscraper,False,-2.453125
+1544,donut,iceberg,False,-1.171875
+1545,iceberg,donut,True,4.3984375
+1546,cruise ship,oyster,True,1.71875
+1547,oyster,cruise ship,False,-2.515625
+1548,oyster,horse,False,-1.703125
+1549,horse,oyster,True,4.84375
+1550,sink,mountain,False,-3.46875
+1551,mountain,sink,True,2.984375
+1552,city,pebble,True,3.9375
+1553,pebble,city,False,-2.125
+1554,field,cracker crumb,True,2.953125
+1555,cracker crumb,field,False,-0.890625
+1556,basilica,cottage,True,5.1875
+1557,cottage,basilica,False,-1.84375
+1558,ladle,dining table,False,-2.359375
+1559,dining table,ladle,True,1.4375
+1560,mosquito,iceberg,False,-4.359375
+1561,iceberg,mosquito,True,5.765625
+1562,thimble,ice skates,False,-1.421875
+1563,ice skates,thimble,True,2.515625
+1564,cottage,cabin cruiser,False,-0.8125
+1565,cabin cruiser,cottage,True,3.015625
+1566,horse,desert,False,-1.484375
+1567,desert,horse,True,2.90625
+1568,mountain,octopus,True,3.6015625
+1569,octopus,mountain,False,-3.203125
+1570,reef,yurt,True,2.671875
+1571,yurt,reef,False,-1.640625
+1572,city,police station,True,2.828125
+1573,police station,city,False,-3.578125
+1574,swamp,pebble,True,4.359375
+1575,pebble,swamp,False,-0.8125
+1576,desert,dining table,True,4.0
+1577,dining table,desert,False,-0.71875
+1578,nebula,police car,True,2.96875
+1579,police car,nebula,False,-1.890625
+1580,telescope,pebble,True,3.71875
+1581,pebble,telescope,False,-1.140625
+1582,hamster,apartment,False,-2.46875
+1583,apartment,hamster,True,1.21875
+1584,fish egg,turtle,False,-1.375
+1585,turtle,fish egg,True,3.328125
+1586,can opener,police station,False,-0.5625
+1587,police station,can opener,True,4.21875
+1588,iceberg,sugar glider,True,0.109375
+1589,sugar glider,iceberg,False,-3.65625
+1590,thimble,octopus,False,-1.5625
+1591,octopus,thimble,True,3.59375
+1592,durian,clownfish,True,1.078125
+1593,clownfish,durian,False,-2.671875
+1594,mountain,cracker crumb,True,3.359375
+1595,rat,baseball,False,-0.5
+1596,pebble,apartment,False,-1.78125
+1597,apartment,pebble,True,2.203125
+1598,nebula,baseball,True,4.40625
+1599,airport,ladle,True,3.296875
+1600,ladle,airport,False,-3.109375
+1601,oyster,octopus,False,-0.5
+1602,octopus,oyster,True,4.578125
+1603,paper towel holder,sink,False,-1.03125
+1604,cruise ship,donut,True,3.4375
+1605,donut,cruise ship,False,-1.546875
+1606,mountain,countertop,True,3.9140625
+1607,skyscraper,pizza peel,True,1.671875
+1608,pizza peel,skyscraper,False,-3.265625
+1609,ice sheet,mosquito,True,3.953125
+1610,city,cottage,True,5.8671875
+1611,cottage,city,False,-3.515625
+1612,turtle,trail,False,-0.78125
+1613,trail,turtle,True,3.015625
+1614,clownfish,city,False,-3.78125
+1615,city,clownfish,True,1.109375
+1616,tuna,scalpel,True,1.203125
+1617,scalpel,tuna,False,-2.484375
+1618,mosquito,shop,False,-3.0
+1619,shop,mosquito,True,3.953125
+1620,airport,basilica,True,1.765625
+1621,basilica,airport,False,-2.125
+1622,nebula,glue stick,True,3.796875
+1623,glue stick,nebula,False,-1.65625
+1624,snub-nosed monkey,city,False,-2.265625
+1625,city,snub-nosed monkey,True,2.09375
+1626,swamp,paper towel holder,True,4.03125
+1627,paper towel holder,swamp,False,-1.625
+1628,mountain,clownfish,True,2.734375
+1629,clownfish,mountain,False,-3.65625
+1630,turtle,reef,False,-1.734375
+1631,reef,turtle,True,2.765625
+1632,Tasmanian devil,mosquito,True,5.8515625
+1633,mosquito,Tasmanian devil,False,-2.34375
+1634,rat,yurt,False,-0.125
+1635,yurt,rat,True,4.65625
+1636,mountain,orchid,True,1.53125
+1637,orchid,mountain,False,-4.671875
+1638,durian,fish egg,True,2.84375
+1639,fish egg,durian,False,-1.453125
+1640,trail,pebble,True,4.375
+1641,pebble,trail,False,-0.734375
+1642,arena,driveway,True,3.03125
+1643,driveway,arena,False,-0.828125
+1644,ice sheet,poppy seed,True,0.109375
+1645,poppy seed,ice sheet,False,-3.890625
+1646,mussel,thimble,True,4.4765625
+1647,thimble,mussel,False,-0.875
+1648,thimble,reef,False,-1.421875
+1649,reef,thimble,True,4.59375
+1650,city,police car,True,1.609375
+1651,police car,city,False,-2.21875
+1652,cruise ship,compost bin,True,2.390625
+1653,compost bin,cruise ship,False,-1.328125
+1654,mountain,poppy seed,True,2.6875
+1655,poppy seed,mountain,False,-4.4375
+1656,cabin cruiser,paper towel holder,True,2.421875
+1657,paper towel holder,cabin cruiser,False,-1.3125
+1658,compost bin,apartment,False,-2.125
+1659,apartment,compost bin,True,1.765625
+1660,field,compost bin,True,1.5625
+1661,compost bin,field,False,-2.15625
+1662,mosquito,airport,False,-4.453125
+1663,airport,mosquito,True,4.328125
+1664,paper towel holder,iceberg,False,-3.046875
+1665,iceberg,paper towel holder,True,5.0
+1666,poppy seed,fish egg,False,-0.75
+1667,fish egg,poppy seed,True,3.0
+1668,pot holder,meadow,False,-2.0
+1669,meadow,pot holder,True,2.078125
+1670,compost bin,ferry,False,-1.765625
+1671,ferry,compost bin,True,3.46875
